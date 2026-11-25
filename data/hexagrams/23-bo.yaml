@@ -1,0 +1,22 @@
+id: 23
+name: 剥
+symbol: ䷖
+lines:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+lower: 坤
+upper: 艮
+cuo: 43
+zong: 24
+hu: 2
+status: draft
+keywords:
+  - 下坤
+  - 上艮
+section: 上经
+references:
+  - hexagram-structure

@@ -1,0 +1,34 @@
+[
+  {
+    "repository": "kanripo/KR1a0007",
+    "commit": "0fa05af11e9229b6cc6febe312d541fc6d4ec3bf",
+    "path": "KR1a0007_016.txt",
+    "blob": "aa85365d6cab2a40ac0545150b1cc9c84600c1cf",
+    "excerpt": "zhouyi-zhushu-tai.txt",
+    "edition": "四庫全書・文淵閣 (WYG)",
+    "retrieved": "2026-11-23",
+    "license_confirmed": false,
+    "independence_confirmed": false,
+    "local_excerpt": {
+      "offset": 35414,
+      "length": 9107,
+      "sha256": "e588ec7f8487eaf2ecc152759f8d05f4a9d9a8e5a693daa5166d7b52c4058a57"
+    }
+  },
+  {
+    "repository": "kanripo/KR1a0031",
+    "commit": "d495f4f3d0acd7f093e656591c104c1b990a8eb8",
+    "path": "KR1a0031_001.txt",
+    "blob": "e8d7727538b06f77e233cfda196c3dc21a6fd64e",
+    "excerpt": "zhouyi-benyi-tai.txt",
+    "edition": "四庫全書・文淵閣 (WYG)",
+    "retrieved": "2026-11-23",
+    "license_confirmed": false,
+    "independence_confirmed": false,
+    "local_excerpt": {
+      "offset": 20719,
+      "length": 1502,
+      "sha256": "24c29197bd1743b98841076ffab75ce9940c2bbf69316f492ef4391884386a1a"
+    }
+  }
+]

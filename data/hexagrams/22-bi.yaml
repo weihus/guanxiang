@@ -1,0 +1,22 @@
+id: 22
+name: 贲
+symbol: ䷕
+lines:
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+lower: 离
+upper: 艮
+cuo: 47
+zong: 21
+hu: 40
+status: draft
+keywords:
+  - 下离
+  - 上艮
+section: 上经
+references:
+  - hexagram-structure

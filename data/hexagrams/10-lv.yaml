@@ -1,0 +1,22 @@
+id: 10
+name: 履
+symbol: ䷉
+lines:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+lower: 兑
+upper: 乾
+cuo: 15
+zong: 9
+hu: 37
+status: draft
+keywords:
+  - 下兑
+  - 上乾
+section: 上经
+references:
+  - hexagram-structure

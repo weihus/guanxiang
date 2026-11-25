@@ -1,0 +1,22 @@
+id: 59
+name: 涣
+symbol: ䷺
+lines:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+lower: 坎
+upper: 巽
+cuo: 55
+zong: 60
+hu: 27
+status: draft
+keywords:
+  - 下坎
+  - 上巽
+section: 下经
+references:
+  - hexagram-structure

@@ -1,0 +1,22 @@
+id: 47
+name: 困
+symbol: ䷮
+lines:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+lower: 坎
+upper: 兑
+cuo: 22
+zong: 48
+hu: 37
+status: draft
+keywords:
+  - 下坎
+  - 上兑
+section: 下经
+references:
+  - hexagram-structure

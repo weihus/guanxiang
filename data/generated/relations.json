@@ -1,0 +1,2396 @@
+{
+  "schemaVersion": 1,
+  "lineOrder": "bottom-to-top",
+  "sections": [
+    {
+      "name": "上经",
+      "first": 1,
+      "last": 30,
+      "count": 30
+    },
+    {
+      "name": "下经",
+      "first": 31,
+      "last": 64,
+      "count": 34
+    }
+  ],
+  "nodes": [
+    {
+      "id": 1,
+      "name": "乾",
+      "symbol": "䷀",
+      "section": "上经",
+      "lower": "乾",
+      "upper": "乾",
+      "lines": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 2,
+      "name": "坤",
+      "symbol": "䷁",
+      "section": "上经",
+      "lower": "坤",
+      "upper": "坤",
+      "lines": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 3,
+      "name": "屯",
+      "symbol": "䷂",
+      "section": "上经",
+      "lower": "震",
+      "upper": "坎",
+      "lines": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 4,
+      "name": "蒙",
+      "symbol": "䷃",
+      "section": "上经",
+      "lower": "坎",
+      "upper": "艮",
+      "lines": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 5,
+      "name": "需",
+      "symbol": "䷄",
+      "section": "上经",
+      "lower": "乾",
+      "upper": "坎",
+      "lines": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 6,
+      "name": "讼",
+      "symbol": "䷅",
+      "section": "上经",
+      "lower": "坎",
+      "upper": "乾",
+      "lines": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 7,
+      "name": "师",
+      "symbol": "䷆",
+      "section": "上经",
+      "lower": "坎",
+      "upper": "坤",
+      "lines": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 8,
+      "name": "比",
+      "symbol": "䷇",
+      "section": "上经",
+      "lower": "坤",
+      "upper": "坎",
+      "lines": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 9,
+      "name": "小畜",
+      "symbol": "䷈",
+      "section": "上经",
+      "lower": "乾",
+      "upper": "巽",
+      "lines": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 10,
+      "name": "履",
+      "symbol": "䷉",
+      "section": "上经",
+      "lower": "兑",
+      "upper": "乾",
+      "lines": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 11,
+      "name": "泰",
+      "symbol": "䷊",
+      "section": "上经",
+      "lower": "乾",
+      "upper": "坤",
+      "lines": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 12,
+      "name": "否",
+      "symbol": "䷋",
+      "section": "上经",
+      "lower": "坤",
+      "upper": "乾",
+      "lines": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 13,
+      "name": "同人",
+      "symbol": "䷌",
+      "section": "上经",
+      "lower": "离",
+      "upper": "乾",
+      "lines": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 14,
+      "name": "大有",
+      "symbol": "䷍",
+      "section": "上经",
+      "lower": "乾",
+      "upper": "离",
+      "lines": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 15,
+      "name": "谦",
+      "symbol": "䷎",
+      "section": "上经",
+      "lower": "艮",
+      "upper": "坤",
+      "lines": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 16,
+      "name": "豫",
+      "symbol": "䷏",
+      "section": "上经",
+      "lower": "坤",
+      "upper": "震",
+      "lines": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 17,
+      "name": "随",
+      "symbol": "䷐",
+      "section": "上经",
+      "lower": "震",
+      "upper": "兑",
+      "lines": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 18,
+      "name": "蛊",
+      "symbol": "䷑",
+      "section": "上经",
+      "lower": "巽",
+      "upper": "艮",
+      "lines": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 19,
+      "name": "临",
+      "symbol": "䷒",
+      "section": "上经",
+      "lower": "兑",
+      "upper": "坤",
+      "lines": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 20,
+      "name": "观",
+      "symbol": "䷓",
+      "section": "上经",
+      "lower": "坤",
+      "upper": "巽",
+      "lines": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 21,
+      "name": "噬嗑",
+      "symbol": "䷔",
+      "section": "上经",
+      "lower": "震",
+      "upper": "离",
+      "lines": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 22,
+      "name": "贲",
+      "symbol": "䷕",
+      "section": "上经",
+      "lower": "离",
+      "upper": "艮",
+      "lines": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 23,
+      "name": "剥",
+      "symbol": "䷖",
+      "section": "上经",
+      "lower": "坤",
+      "upper": "艮",
+      "lines": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 24,
+      "name": "复",
+      "symbol": "䷗",
+      "section": "上经",
+      "lower": "震",
+      "upper": "坤",
+      "lines": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 25,
+      "name": "无妄",
+      "symbol": "䷘",
+      "section": "上经",
+      "lower": "震",
+      "upper": "乾",
+      "lines": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 26,
+      "name": "大畜",
+      "symbol": "䷙",
+      "section": "上经",
+      "lower": "乾",
+      "upper": "艮",
+      "lines": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 27,
+      "name": "颐",
+      "symbol": "䷚",
+      "section": "上经",
+      "lower": "震",
+      "upper": "艮",
+      "lines": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 28,
+      "name": "大过",
+      "symbol": "䷛",
+      "section": "上经",
+      "lower": "巽",
+      "upper": "兑",
+      "lines": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 29,
+      "name": "坎",
+      "symbol": "䷜",
+      "section": "上经",
+      "lower": "坎",
+      "upper": "坎",
+      "lines": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 30,
+      "name": "离",
+      "symbol": "䷝",
+      "section": "上经",
+      "lower": "离",
+      "upper": "离",
+      "lines": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 31,
+      "name": "咸",
+      "symbol": "䷞",
+      "section": "下经",
+      "lower": "艮",
+      "upper": "兑",
+      "lines": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 32,
+      "name": "恒",
+      "symbol": "䷟",
+      "section": "下经",
+      "lower": "巽",
+      "upper": "震",
+      "lines": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 33,
+      "name": "遁",
+      "symbol": "䷠",
+      "section": "下经",
+      "lower": "艮",
+      "upper": "乾",
+      "lines": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 34,
+      "name": "大壮",
+      "symbol": "䷡",
+      "section": "下经",
+      "lower": "乾",
+      "upper": "震",
+      "lines": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 35,
+      "name": "晋",
+      "symbol": "䷢",
+      "section": "下经",
+      "lower": "坤",
+      "upper": "离",
+      "lines": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 36,
+      "name": "明夷",
+      "symbol": "䷣",
+      "section": "下经",
+      "lower": "离",
+      "upper": "坤",
+      "lines": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 37,
+      "name": "家人",
+      "symbol": "䷤",
+      "section": "下经",
+      "lower": "离",
+      "upper": "巽",
+      "lines": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 38,
+      "name": "睽",
+      "symbol": "䷥",
+      "section": "下经",
+      "lower": "兑",
+      "upper": "离",
+      "lines": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 39,
+      "name": "蹇",
+      "symbol": "䷦",
+      "section": "下经",
+      "lower": "艮",
+      "upper": "坎",
+      "lines": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 40,
+      "name": "解",
+      "symbol": "䷧",
+      "section": "下经",
+      "lower": "坎",
+      "upper": "震",
+      "lines": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 41,
+      "name": "损",
+      "symbol": "䷨",
+      "section": "下经",
+      "lower": "兑",
+      "upper": "艮",
+      "lines": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 42,
+      "name": "益",
+      "symbol": "䷩",
+      "section": "下经",
+      "lower": "震",
+      "upper": "巽",
+      "lines": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 43,
+      "name": "夬",
+      "symbol": "䷪",
+      "section": "下经",
+      "lower": "乾",
+      "upper": "兑",
+      "lines": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 44,
+      "name": "姤",
+      "symbol": "䷫",
+      "section": "下经",
+      "lower": "巽",
+      "upper": "乾",
+      "lines": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 45,
+      "name": "萃",
+      "symbol": "䷬",
+      "section": "下经",
+      "lower": "坤",
+      "upper": "兑",
+      "lines": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 46,
+      "name": "升",
+      "symbol": "䷭",
+      "section": "下经",
+      "lower": "巽",
+      "upper": "坤",
+      "lines": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 47,
+      "name": "困",
+      "symbol": "䷮",
+      "section": "下经",
+      "lower": "坎",
+      "upper": "兑",
+      "lines": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 48,
+      "name": "井",
+      "symbol": "䷯",
+      "section": "下经",
+      "lower": "巽",
+      "upper": "坎",
+      "lines": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 49,
+      "name": "革",
+      "symbol": "䷰",
+      "section": "下经",
+      "lower": "离",
+      "upper": "兑",
+      "lines": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 50,
+      "name": "鼎",
+      "symbol": "䷱",
+      "section": "下经",
+      "lower": "巽",
+      "upper": "离",
+      "lines": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 51,
+      "name": "震",
+      "symbol": "䷲",
+      "section": "下经",
+      "lower": "震",
+      "upper": "震",
+      "lines": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 52,
+      "name": "艮",
+      "symbol": "䷳",
+      "section": "下经",
+      "lower": "艮",
+      "upper": "艮",
+      "lines": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 53,
+      "name": "渐",
+      "symbol": "䷴",
+      "section": "下经",
+      "lower": "艮",
+      "upper": "巽",
+      "lines": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 54,
+      "name": "归妹",
+      "symbol": "䷵",
+      "section": "下经",
+      "lower": "兑",
+      "upper": "震",
+      "lines": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 55,
+      "name": "丰",
+      "symbol": "䷶",
+      "section": "下经",
+      "lower": "离",
+      "upper": "震",
+      "lines": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 56,
+      "name": "旅",
+      "symbol": "䷷",
+      "section": "下经",
+      "lower": "艮",
+      "upper": "离",
+      "lines": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 57,
+      "name": "巽",
+      "symbol": "䷸",
+      "section": "下经",
+      "lower": "巽",
+      "upper": "巽",
+      "lines": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 58,
+      "name": "兑",
+      "symbol": "䷹",
+      "section": "下经",
+      "lower": "兑",
+      "upper": "兑",
+      "lines": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 59,
+      "name": "涣",
+      "symbol": "䷺",
+      "section": "下经",
+      "lower": "坎",
+      "upper": "巽",
+      "lines": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 60,
+      "name": "节",
+      "symbol": "䷻",
+      "section": "下经",
+      "lower": "兑",
+      "upper": "坎",
+      "lines": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 61,
+      "name": "中孚",
+      "symbol": "䷼",
+      "section": "下经",
+      "lower": "兑",
+      "upper": "巽",
+      "lines": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 62,
+      "name": "小过",
+      "symbol": "䷽",
+      "section": "下经",
+      "lower": "艮",
+      "upper": "震",
+      "lines": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 63,
+      "name": "既济",
+      "symbol": "䷾",
+      "section": "下经",
+      "lower": "离",
+      "upper": "坎",
+      "lines": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "status": "draft"
+    },
+    {
+      "id": 64,
+      "name": "未济",
+      "symbol": "䷿",
+      "section": "下经",
+      "lower": "坎",
+      "upper": "离",
+      "lines": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "status": "draft"
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 2,
+      "type": "cuo"
+    },
+    {
+      "source": 1,
+      "target": 1,
+      "type": "zong"
+    },
+    {
+      "source": 1,
+      "target": 1,
+      "type": "hu"
+    },
+    {
+      "source": 2,
+      "target": 1,
+      "type": "cuo"
+    },
+    {
+      "source": 2,
+      "target": 2,
+      "type": "zong"
+    },
+    {
+      "source": 2,
+      "target": 2,
+      "type": "hu"
+    },
+    {
+      "source": 3,
+      "target": 50,
+      "type": "cuo"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "type": "zong"
+    },
+    {
+      "source": 3,
+      "target": 23,
+      "type": "hu"
+    },
+    {
+      "source": 4,
+      "target": 49,
+      "type": "cuo"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "type": "zong"
+    },
+    {
+      "source": 4,
+      "target": 24,
+      "type": "hu"
+    },
+    {
+      "source": 5,
+      "target": 35,
+      "type": "cuo"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "type": "zong"
+    },
+    {
+      "source": 5,
+      "target": 38,
+      "type": "hu"
+    },
+    {
+      "source": 6,
+      "target": 36,
+      "type": "cuo"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "type": "zong"
+    },
+    {
+      "source": 6,
+      "target": 37,
+      "type": "hu"
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "type": "cuo"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "type": "zong"
+    },
+    {
+      "source": 7,
+      "target": 24,
+      "type": "hu"
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "type": "cuo"
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "type": "zong"
+    },
+    {
+      "source": 8,
+      "target": 23,
+      "type": "hu"
+    },
+    {
+      "source": 9,
+      "target": 16,
+      "type": "cuo"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "type": "zong"
+    },
+    {
+      "source": 9,
+      "target": 38,
+      "type": "hu"
+    },
+    {
+      "source": 10,
+      "target": 15,
+      "type": "cuo"
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "type": "zong"
+    },
+    {
+      "source": 10,
+      "target": 37,
+      "type": "hu"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "type": "cuo"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "type": "zong"
+    },
+    {
+      "source": 11,
+      "target": 54,
+      "type": "hu"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "type": "cuo"
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "type": "zong"
+    },
+    {
+      "source": 12,
+      "target": 53,
+      "type": "hu"
+    },
+    {
+      "source": 13,
+      "target": 7,
+      "type": "cuo"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "type": "zong"
+    },
+    {
+      "source": 13,
+      "target": 44,
+      "type": "hu"
+    },
+    {
+      "source": 14,
+      "target": 8,
+      "type": "cuo"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "type": "zong"
+    },
+    {
+      "source": 14,
+      "target": 43,
+      "type": "hu"
+    },
+    {
+      "source": 15,
+      "target": 10,
+      "type": "cuo"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "type": "zong"
+    },
+    {
+      "source": 15,
+      "target": 40,
+      "type": "hu"
+    },
+    {
+      "source": 16,
+      "target": 9,
+      "type": "cuo"
+    },
+    {
+      "source": 16,
+      "target": 15,
+      "type": "zong"
+    },
+    {
+      "source": 16,
+      "target": 39,
+      "type": "hu"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "type": "cuo"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "type": "zong"
+    },
+    {
+      "source": 17,
+      "target": 53,
+      "type": "hu"
+    },
+    {
+      "source": 18,
+      "target": 17,
+      "type": "cuo"
+    },
+    {
+      "source": 18,
+      "target": 17,
+      "type": "zong"
+    },
+    {
+      "source": 18,
+      "target": 54,
+      "type": "hu"
+    },
+    {
+      "source": 19,
+      "target": 33,
+      "type": "cuo"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "type": "zong"
+    },
+    {
+      "source": 19,
+      "target": 24,
+      "type": "hu"
+    },
+    {
+      "source": 20,
+      "target": 34,
+      "type": "cuo"
+    },
+    {
+      "source": 20,
+      "target": 19,
+      "type": "zong"
+    },
+    {
+      "source": 20,
+      "target": 23,
+      "type": "hu"
+    },
+    {
+      "source": 21,
+      "target": 48,
+      "type": "cuo"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "type": "zong"
+    },
+    {
+      "source": 21,
+      "target": 39,
+      "type": "hu"
+    },
+    {
+      "source": 22,
+      "target": 47,
+      "type": "cuo"
+    },
+    {
+      "source": 22,
+      "target": 21,
+      "type": "zong"
+    },
+    {
+      "source": 22,
+      "target": 40,
+      "type": "hu"
+    },
+    {
+      "source": 23,
+      "target": 43,
+      "type": "cuo"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "type": "zong"
+    },
+    {
+      "source": 23,
+      "target": 2,
+      "type": "hu"
+    },
+    {
+      "source": 24,
+      "target": 44,
+      "type": "cuo"
+    },
+    {
+      "source": 24,
+      "target": 23,
+      "type": "zong"
+    },
+    {
+      "source": 24,
+      "target": 2,
+      "type": "hu"
+    },
+    {
+      "source": 25,
+      "target": 46,
+      "type": "cuo"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "type": "zong"
+    },
+    {
+      "source": 25,
+      "target": 53,
+      "type": "hu"
+    },
+    {
+      "source": 26,
+      "target": 45,
+      "type": "cuo"
+    },
+    {
+      "source": 26,
+      "target": 25,
+      "type": "zong"
+    },
+    {
+      "source": 26,
+      "target": 54,
+      "type": "hu"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "type": "cuo"
+    },
+    {
+      "source": 27,
+      "target": 27,
+      "type": "zong"
+    },
+    {
+      "source": 27,
+      "target": 2,
+      "type": "hu"
+    },
+    {
+      "source": 28,
+      "target": 27,
+      "type": "cuo"
+    },
+    {
+      "source": 28,
+      "target": 28,
+      "type": "zong"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "type": "hu"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "type": "cuo"
+    },
+    {
+      "source": 29,
+      "target": 29,
+      "type": "zong"
+    },
+    {
+      "source": 29,
+      "target": 27,
+      "type": "hu"
+    },
+    {
+      "source": 30,
+      "target": 29,
+      "type": "cuo"
+    },
+    {
+      "source": 30,
+      "target": 30,
+      "type": "zong"
+    },
+    {
+      "source": 30,
+      "target": 28,
+      "type": "hu"
+    },
+    {
+      "source": 31,
+      "target": 41,
+      "type": "cuo"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "type": "zong"
+    },
+    {
+      "source": 31,
+      "target": 44,
+      "type": "hu"
+    },
+    {
+      "source": 32,
+      "target": 42,
+      "type": "cuo"
+    },
+    {
+      "source": 32,
+      "target": 31,
+      "type": "zong"
+    },
+    {
+      "source": 32,
+      "target": 43,
+      "type": "hu"
+    },
+    {
+      "source": 33,
+      "target": 19,
+      "type": "cuo"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "type": "zong"
+    },
+    {
+      "source": 33,
+      "target": 44,
+      "type": "hu"
+    },
+    {
+      "source": 34,
+      "target": 20,
+      "type": "cuo"
+    },
+    {
+      "source": 34,
+      "target": 33,
+      "type": "zong"
+    },
+    {
+      "source": 34,
+      "target": 43,
+      "type": "hu"
+    },
+    {
+      "source": 35,
+      "target": 5,
+      "type": "cuo"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "type": "zong"
+    },
+    {
+      "source": 35,
+      "target": 39,
+      "type": "hu"
+    },
+    {
+      "source": 36,
+      "target": 6,
+      "type": "cuo"
+    },
+    {
+      "source": 36,
+      "target": 35,
+      "type": "zong"
+    },
+    {
+      "source": 36,
+      "target": 40,
+      "type": "hu"
+    },
+    {
+      "source": 37,
+      "target": 40,
+      "type": "cuo"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "type": "zong"
+    },
+    {
+      "source": 37,
+      "target": 64,
+      "type": "hu"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "type": "cuo"
+    },
+    {
+      "source": 38,
+      "target": 37,
+      "type": "zong"
+    },
+    {
+      "source": 38,
+      "target": 63,
+      "type": "hu"
+    },
+    {
+      "source": 39,
+      "target": 38,
+      "type": "cuo"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "type": "zong"
+    },
+    {
+      "source": 39,
+      "target": 64,
+      "type": "hu"
+    },
+    {
+      "source": 40,
+      "target": 37,
+      "type": "cuo"
+    },
+    {
+      "source": 40,
+      "target": 39,
+      "type": "zong"
+    },
+    {
+      "source": 40,
+      "target": 63,
+      "type": "hu"
+    },
+    {
+      "source": 41,
+      "target": 31,
+      "type": "cuo"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "type": "zong"
+    },
+    {
+      "source": 41,
+      "target": 24,
+      "type": "hu"
+    },
+    {
+      "source": 42,
+      "target": 32,
+      "type": "cuo"
+    },
+    {
+      "source": 42,
+      "target": 41,
+      "type": "zong"
+    },
+    {
+      "source": 42,
+      "target": 23,
+      "type": "hu"
+    },
+    {
+      "source": 43,
+      "target": 23,
+      "type": "cuo"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "type": "zong"
+    },
+    {
+      "source": 43,
+      "target": 1,
+      "type": "hu"
+    },
+    {
+      "source": 44,
+      "target": 24,
+      "type": "cuo"
+    },
+    {
+      "source": 44,
+      "target": 43,
+      "type": "zong"
+    },
+    {
+      "source": 44,
+      "target": 1,
+      "type": "hu"
+    },
+    {
+      "source": 45,
+      "target": 26,
+      "type": "cuo"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "type": "zong"
+    },
+    {
+      "source": 45,
+      "target": 53,
+      "type": "hu"
+    },
+    {
+      "source": 46,
+      "target": 25,
+      "type": "cuo"
+    },
+    {
+      "source": 46,
+      "target": 45,
+      "type": "zong"
+    },
+    {
+      "source": 46,
+      "target": 54,
+      "type": "hu"
+    },
+    {
+      "source": 47,
+      "target": 22,
+      "type": "cuo"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "type": "zong"
+    },
+    {
+      "source": 47,
+      "target": 37,
+      "type": "hu"
+    },
+    {
+      "source": 48,
+      "target": 21,
+      "type": "cuo"
+    },
+    {
+      "source": 48,
+      "target": 47,
+      "type": "zong"
+    },
+    {
+      "source": 48,
+      "target": 38,
+      "type": "hu"
+    },
+    {
+      "source": 49,
+      "target": 4,
+      "type": "cuo"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "type": "zong"
+    },
+    {
+      "source": 49,
+      "target": 44,
+      "type": "hu"
+    },
+    {
+      "source": 50,
+      "target": 3,
+      "type": "cuo"
+    },
+    {
+      "source": 50,
+      "target": 49,
+      "type": "zong"
+    },
+    {
+      "source": 50,
+      "target": 43,
+      "type": "hu"
+    },
+    {
+      "source": 51,
+      "target": 57,
+      "type": "cuo"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "type": "zong"
+    },
+    {
+      "source": 51,
+      "target": 39,
+      "type": "hu"
+    },
+    {
+      "source": 52,
+      "target": 58,
+      "type": "cuo"
+    },
+    {
+      "source": 52,
+      "target": 51,
+      "type": "zong"
+    },
+    {
+      "source": 52,
+      "target": 40,
+      "type": "hu"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "type": "cuo"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "type": "zong"
+    },
+    {
+      "source": 53,
+      "target": 64,
+      "type": "hu"
+    },
+    {
+      "source": 54,
+      "target": 53,
+      "type": "cuo"
+    },
+    {
+      "source": 54,
+      "target": 53,
+      "type": "zong"
+    },
+    {
+      "source": 54,
+      "target": 63,
+      "type": "hu"
+    },
+    {
+      "source": 55,
+      "target": 59,
+      "type": "cuo"
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "type": "zong"
+    },
+    {
+      "source": 55,
+      "target": 28,
+      "type": "hu"
+    },
+    {
+      "source": 56,
+      "target": 60,
+      "type": "cuo"
+    },
+    {
+      "source": 56,
+      "target": 55,
+      "type": "zong"
+    },
+    {
+      "source": 56,
+      "target": 28,
+      "type": "hu"
+    },
+    {
+      "source": 57,
+      "target": 51,
+      "type": "cuo"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "type": "zong"
+    },
+    {
+      "source": 57,
+      "target": 38,
+      "type": "hu"
+    },
+    {
+      "source": 58,
+      "target": 52,
+      "type": "cuo"
+    },
+    {
+      "source": 58,
+      "target": 57,
+      "type": "zong"
+    },
+    {
+      "source": 58,
+      "target": 37,
+      "type": "hu"
+    },
+    {
+      "source": 59,
+      "target": 55,
+      "type": "cuo"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "type": "zong"
+    },
+    {
+      "source": 59,
+      "target": 27,
+      "type": "hu"
+    },
+    {
+      "source": 60,
+      "target": 56,
+      "type": "cuo"
+    },
+    {
+      "source": 60,
+      "target": 59,
+      "type": "zong"
+    },
+    {
+      "source": 60,
+      "target": 27,
+      "type": "hu"
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "type": "cuo"
+    },
+    {
+      "source": 61,
+      "target": 61,
+      "type": "zong"
+    },
+    {
+      "source": 61,
+      "target": 27,
+      "type": "hu"
+    },
+    {
+      "source": 62,
+      "target": 61,
+      "type": "cuo"
+    },
+    {
+      "source": 62,
+      "target": 62,
+      "type": "zong"
+    },
+    {
+      "source": 62,
+      "target": 28,
+      "type": "hu"
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "type": "cuo"
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "type": "zong"
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "type": "hu"
+    },
+    {
+      "source": 64,
+      "target": 63,
+      "type": "cuo"
+    },
+    {
+      "source": 64,
+      "target": 63,
+      "type": "zong"
+    },
+    {
+      "source": 64,
+      "target": 63,
+      "type": "hu"
+    }
+  ],
+  "pairs": [
+    {
+      "ids": [
+        1,
+        2
+      ],
+      "section": "上经",
+      "types": [
+        "cuo"
+      ]
+    },
+    {
+      "ids": [
+        3,
+        4
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        5,
+        6
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        7,
+        8
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        9,
+        10
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        11,
+        12
+      ],
+      "section": "上经",
+      "types": [
+        "zong",
+        "cuo"
+      ]
+    },
+    {
+      "ids": [
+        13,
+        14
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        15,
+        16
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        17,
+        18
+      ],
+      "section": "上经",
+      "types": [
+        "zong",
+        "cuo"
+      ]
+    },
+    {
+      "ids": [
+        19,
+        20
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        21,
+        22
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        23,
+        24
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        25,
+        26
+      ],
+      "section": "上经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        27,
+        28
+      ],
+      "section": "上经",
+      "types": [
+        "cuo"
+      ]
+    },
+    {
+      "ids": [
+        29,
+        30
+      ],
+      "section": "上经",
+      "types": [
+        "cuo"
+      ]
+    },
+    {
+      "ids": [
+        31,
+        32
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        33,
+        34
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        35,
+        36
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        37,
+        38
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        39,
+        40
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        41,
+        42
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        43,
+        44
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        45,
+        46
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        47,
+        48
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        49,
+        50
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        51,
+        52
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        53,
+        54
+      ],
+      "section": "下经",
+      "types": [
+        "zong",
+        "cuo"
+      ]
+    },
+    {
+      "ids": [
+        55,
+        56
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        57,
+        58
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        59,
+        60
+      ],
+      "section": "下经",
+      "types": [
+        "zong"
+      ]
+    },
+    {
+      "ids": [
+        61,
+        62
+      ],
+      "section": "下经",
+      "types": [
+        "cuo"
+      ]
+    },
+    {
+      "ids": [
+        63,
+        64
+      ],
+      "section": "下经",
+      "types": [
+        "zong",
+        "cuo"
+      ]
+    }
+  ]
+}

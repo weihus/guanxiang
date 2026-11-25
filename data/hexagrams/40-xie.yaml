@@ -1,0 +1,22 @@
+id: 40
+name: 解
+symbol: ䷧
+lines:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+lower: 坎
+upper: 震
+cuo: 37
+zong: 39
+hu: 63
+status: draft
+keywords:
+  - 下坎
+  - 上震
+section: 下经
+references:
+  - hexagram-structure

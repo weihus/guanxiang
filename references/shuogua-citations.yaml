@@ -1,0 +1,794 @@
+status: draft
+locator_policy: 以段落首句和本地底本文字定位；章次不作跨版本统一假定。
+normalization: 引文保留底本字形；机械检索仅去分页、空白及标点，并归一爲/為、説/說、兑/兌。
+sources:
+  wyg:
+    path: references/sources/shuogua-zhushu.txt
+    edition: 周易注疏卷十三·说卦，文渊阁本
+    license_confirmed: false
+  tls:
+    path: references/sources/shuogua-tls.txt
+    edition: Kanripo 周易正文·说卦（tls转录）
+    license_confirmed: false
+passages:
+  virtue: 乾健也……兌説也段（文渊阁卷十三 9a–9b）
+  family_role: 乾天也故稱乎父……兌三索而得女故謂之少女段（10a–10b）
+  nature: 乾爲天起的各卦取象段（10b–15a）
+  gloss: 乾健也段正义（9b）
+  pronunciation: 雷以動之段音义（6b）
+  supplement: 帝出乎震段解释（7a）
+citations:
+  shuogua-qian-name:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 乾
+    field: name
+    quote: 乾爲天
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 185
+          - 185
+        page: KR1a0007_WYG_036-10b
+      tls:
+        lines:
+          - 163
+          - 163
+        page: KR1a0001_tls_067-10a
+  shuogua-qian-nature:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 乾
+    field: nature
+    quote: 乾爲天
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 185
+          - 185
+        page: KR1a0007_WYG_036-10b
+      tls:
+        lines:
+          - 163
+          - 163
+        page: KR1a0001_tls_067-10a
+  shuogua-qian-virtue:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 乾
+    field: virtue
+    quote: 乾健也
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾健也……兌説也段（文渊阁卷十三 9a–9b）
+    locations:
+      wyg:
+        lines:
+          - 159
+          - 159
+        page: KR1a0007_WYG_036-9a
+      tls:
+        lines:
+          - 113
+          - 114
+        page: KR1a0001_tls_067-6a
+  shuogua-qian-family:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 乾
+    field: family_role
+    quote: 乾天也故稱乎父
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾天也故稱乎父……兌三索而得女故謂之少女段（10a–10b）
+    locations:
+      wyg:
+        lines:
+          - 176
+          - 176
+        page: KR1a0007_WYG_036-10a
+      tls:
+        lines:
+          - 144
+          - 146
+        page: KR1a0001_tls_067-9a
+  shuogua-kun-name:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 坤
+    field: name
+    quote: 坤爲地
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 192
+          - 192
+        page: KR1a0007_WYG_036-11a
+      tls:
+        lines:
+          - 179
+          - 179
+        page: KR1a0001_tls_067-11a
+  shuogua-kun-nature:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 坤
+    field: nature
+    quote: 坤爲地
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 192
+          - 192
+        page: KR1a0007_WYG_036-11a
+      tls:
+        lines:
+          - 179
+          - 179
+        page: KR1a0001_tls_067-11a
+  shuogua-kun-virtue:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 坤
+    field: virtue
+    quote: 坤順也
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾健也……兌説也段（文渊阁卷十三 9a–9b）
+    locations:
+      wyg:
+        lines:
+          - 159
+          - 159
+        page: KR1a0007_WYG_036-9a
+      tls:
+        lines:
+          - 115
+          - 115
+        page: KR1a0001_tls_067-6a
+  shuogua-kun-family:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 坤
+    field: family_role
+    quote: 坤地也故稱乎母
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾天也故稱乎父……兌三索而得女故謂之少女段（10a–10b）
+    locations:
+      wyg:
+        lines:
+          - 176
+          - 176
+        page: KR1a0007_WYG_036-10a
+      tls:
+        lines:
+          - 147
+          - 148
+        page: KR1a0001_tls_067-9a
+  shuogua-zhen-name:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 震
+    field: name
+    quote: 震爲雷
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 198
+          - 198
+        page: KR1a0007_WYG_036-11b
+      tls:
+        lines:
+          - 193
+          - 193
+        page: KR1a0001_tls_067-12a
+  shuogua-zhen-nature:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 震
+    field: nature
+    quote: 震爲雷
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 198
+          - 198
+        page: KR1a0007_WYG_036-11b
+      tls:
+        lines:
+          - 193
+          - 193
+        page: KR1a0001_tls_067-12a
+  shuogua-zhen-virtue:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 震
+    field: virtue
+    quote: 震動也
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾健也……兌説也段（文渊阁卷十三 9a–9b）
+    locations:
+      wyg:
+        lines:
+          - 159
+          - 159
+        page: KR1a0007_WYG_036-9a
+      tls:
+        lines:
+          - 116
+          - 116
+        page: KR1a0001_tls_067-6a
+  shuogua-zhen-family:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 震
+    field: family_role
+    quote: 震一索而得男故謂之長男
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾天也故稱乎父……兌三索而得女故謂之少女段（10a–10b）
+    locations:
+      wyg:
+        lines:
+          - 176
+          - 177
+        page: KR1a0007_WYG_036-10a
+      tls:
+        lines:
+          - 149
+          - 150
+        page: KR1a0001_tls_067-9a
+  shuogua-xun-name:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 巽
+    field: name
+    quote: 巽爲木爲風
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 210
+          - 210
+        page: KR1a0007_WYG_036-12a
+      tls:
+        lines:
+          - 213
+          - 214
+        page: KR1a0001_tls_067-13a
+  shuogua-xun-nature:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 巽
+    field: nature
+    quote: 巽爲木爲風
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 210
+          - 210
+        page: KR1a0007_WYG_036-12a
+      tls:
+        lines:
+          - 213
+          - 214
+        page: KR1a0001_tls_067-13a
+  shuogua-xun-virtue:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 巽
+    field: virtue
+    quote: 巽入也
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾健也……兌説也段（文渊阁卷十三 9a–9b）
+    locations:
+      wyg:
+        lines:
+          - 159
+          - 159
+        page: KR1a0007_WYG_036-9a
+      tls:
+        lines:
+          - 117
+          - 117
+        page: KR1a0001_tls_067-6a
+  shuogua-xun-family:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 巽
+    field: family_role
+    quote: 巽一索而得女故謂之長女
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾天也故稱乎父……兌三索而得女故謂之少女段（10a–10b）
+    locations:
+      wyg:
+        lines:
+          - 177
+          - 177
+        page: KR1a0007_WYG_036-10a
+      tls:
+        lines:
+          - 151
+          - 152
+        page: KR1a0001_tls_067-9a
+  shuogua-kan-name:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 坎
+    field: name
+    quote: 坎爲水
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 222
+          - 222
+        page: KR1a0007_WYG_036-12b
+      tls:
+        lines:
+          - 232
+          - 232
+        page: KR1a0001_tls_067-14a
+  shuogua-kan-nature:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 坎
+    field: nature
+    quote: 坎爲水
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 222
+          - 222
+        page: KR1a0007_WYG_036-12b
+      tls:
+        lines:
+          - 232
+          - 232
+        page: KR1a0001_tls_067-14a
+  shuogua-kan-virtue:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 坎
+    field: virtue
+    quote: 坎陷也
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾健也……兌説也段（文渊阁卷十三 9a–9b）
+    locations:
+      wyg:
+        lines:
+          - 159
+          - 159
+        page: KR1a0007_WYG_036-9a
+      tls:
+        lines:
+          - 118
+          - 118
+        page: KR1a0001_tls_067-6a
+  shuogua-kan-family:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 坎
+    field: family_role
+    quote: 坎再索而得男故謂之中男
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾天也故稱乎父……兌三索而得女故謂之少女段（10a–10b）
+    locations:
+      wyg:
+        lines:
+          - 177
+          - 179
+        page: KR1a0007_WYG_036-10a
+      tls:
+        lines:
+          - 153
+          - 154
+        page: KR1a0001_tls_067-9a
+  shuogua-li-name:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 离
+    field: name
+    quote: 離爲火爲日爲電
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 236
+          - 236
+        page: KR1a0007_WYG_036-13b
+      tls:
+        lines:
+          - 258
+          - 260
+        page: KR1a0001_tls_067-15a
+  shuogua-li-nature:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 离
+    field: nature
+    quote: 離爲火爲日爲電
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 236
+          - 236
+        page: KR1a0007_WYG_036-13b
+      tls:
+        lines:
+          - 258
+          - 260
+        page: KR1a0001_tls_067-15a
+  shuogua-li-virtue:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 离
+    field: virtue
+    quote: 離麗也
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾健也……兌説也段（文渊阁卷十三 9a–9b）
+    locations:
+      wyg:
+        lines:
+          - 159
+          - 159
+        page: KR1a0007_WYG_036-9a
+      tls:
+        lines:
+          - 119
+          - 119
+        page: KR1a0001_tls_067-6a
+  shuogua-li-family:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 离
+    field: family_role
+    quote: 離再索而得女故謂之中女
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾天也故稱乎父……兌三索而得女故謂之少女段（10a–10b）
+    locations:
+      wyg:
+        lines:
+          - 179
+          - 179
+        page: KR1a0007_WYG_036-10b
+      tls:
+        lines:
+          - 155
+          - 156
+        page: KR1a0001_tls_067-9a
+  shuogua-gen-name:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 艮
+    field: name
+    quote: 艮爲山
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 244
+          - 244
+        page: KR1a0007_WYG_036-14a
+      tls:
+        lines:
+          - 276
+          - 276
+        page: KR1a0001_tls_067-16a
+  shuogua-gen-nature:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 艮
+    field: nature
+    quote: 艮爲山
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 244
+          - 244
+        page: KR1a0007_WYG_036-14a
+      tls:
+        lines:
+          - 276
+          - 276
+        page: KR1a0001_tls_067-16a
+  shuogua-gen-virtue:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 艮
+    field: virtue
+    quote: 艮止也
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾健也……兌説也段（文渊阁卷十三 9a–9b）
+    locations:
+      wyg:
+        lines:
+          - 159
+          - 159
+        page: KR1a0007_WYG_036-9a
+      tls:
+        lines:
+          - 120
+          - 120
+        page: KR1a0001_tls_067-6a
+  shuogua-gen-family:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 艮
+    field: family_role
+    quote: 艮三索而得男故謂之少男
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾天也故稱乎父……兌三索而得女故謂之少女段（10a–10b）
+    locations:
+      wyg:
+        lines:
+          - 179
+          - 180
+        page: KR1a0007_WYG_036-10b
+      tls:
+        lines:
+          - 157
+          - 158
+        page: KR1a0001_tls_067-9a
+  shuogua-dui-name:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 兑
+    field: name
+    quote: 兌爲澤
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 254
+          - 254
+        page: KR1a0007_WYG_036-14b
+      tls:
+        lines:
+          - 290
+          - 290
+        page: KR1a0001_tls_067-17a
+  shuogua-dui-nature:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 兑
+    field: nature
+    quote: 兌爲澤
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾爲天起的各卦取象段（10b–15a）
+    locations:
+      wyg:
+        lines:
+          - 254
+          - 254
+        page: KR1a0007_WYG_036-14b
+      tls:
+        lines:
+          - 290
+          - 290
+        page: KR1a0001_tls_067-17a
+  shuogua-dui-virtue:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 兑
+    field: virtue
+    quote: 兌説也
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾健也……兌説也段（文渊阁卷十三 9a–9b）
+    locations:
+      wyg:
+        lines:
+          - 161
+          - 161
+        page: KR1a0007_WYG_036-9b
+      tls:
+        lines:
+          - 121
+          - 121
+        page: KR1a0001_tls_067-6a
+  shuogua-dui-family:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 兑
+    field: family_role
+    quote: 兌三索而得女故謂之少女
+    witnesses:
+      - wyg
+      - tls
+    passage: 乾天也故稱乎父……兌三索而得女故謂之少女段（10a–10b）
+    locations:
+      wyg:
+        lines:
+          - 180
+          - 180
+        page: KR1a0007_WYG_036-10b
+      tls:
+        lines:
+          - 159
+          - 160
+        page: KR1a0001_tls_067-9a
+  shuogua-li-gloss:
+    work: 周易正义·说卦
+    kind: 疏
+    trigram: 离
+    field: gloss
+    quote: 離象火火必著於物故爲麗也
+    witnesses:
+      - wyg
+    passage: 乾健也段正义（9b）
+    locations:
+      wyg:
+        lines:
+          - 163
+          - 163
+        page: KR1a0007_WYG_036-9b
+  shuogua-dui-pronunciation:
+    work: 周易正义·说卦
+    kind: 音义
+    trigram: 兑
+    field: pronunciation
+    quote: 說音悦後皆同
+    witnesses:
+      - wyg
+    passage: 雷以動之段音义（6b）
+    locations:
+      wyg:
+        lines:
+          - 109
+          - 109
+        page: KR1a0007_WYG_036-6b
+  shuogua-li-brightness:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 离
+    field: supplement
+    quote: 離也者明也萬物皆相見
+    witnesses:
+      - wyg
+      - tls
+    passage: 帝出乎震段解释（7a）
+    locations:
+      wyg:
+        lines:
+          - 118
+          - 118
+        page: KR1a0007_WYG_036-7a
+      tls:
+        lines:
+          - 64
+          - 66
+        page: KR1a0001_tls_067-4a
+  shuogua-kun-nurture:
+    work: 周易·说卦传
+    kind: 传文
+    trigram: 坤
+    field: supplement
+    quote: 萬物皆致養焉
+    witnesses:
+      - wyg
+      - tls
+    passage: 帝出乎震段解释（7a）
+    locations:
+      wyg:
+        lines:
+          - 120
+          - 120
+        page: KR1a0007_WYG_036-7a
+      tls:
+        lines:
+          - 73
+          - 73
+        page: KR1a0001_tls_067-4a
+  shuogua-qian-gloss:
+    work: 周易正义·说卦
+    kind: 疏
+    trigram: 乾
+    field: gloss
+    quote: 乾象天天體運轉不息故爲健也
+    witnesses:
+      - wyg
+    passage: 乾健也段正义（9b）
+    locations:
+      wyg:
+        lines:
+          - 161
+          - 161
+        page: KR1a0007_WYG_036-9b
+  shuogua-kun-gloss:
+    work: 周易正义·说卦
+    kind: 疏
+    trigram: 坤
+    field: gloss
+    quote: 坤象地地順承於天故爲順也
+    witnesses:
+      - wyg
+    passage: 乾健也段正义（9b）
+    locations:
+      wyg:
+        lines:
+          - 161
+          - 162
+        page: KR1a0007_WYG_036-9b

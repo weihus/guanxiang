@@ -1,0 +1,16 @@
+原创正文许可说明
+
+Copyright (c) 2026 zhouyi-book contributors
+
+本项目原创书稿（content/ 下的原创正文）采用
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+（知识共享 署名—非商业性使用—相同方式共享 4.0 国际）许可，简称 CC BY-NC-SA 4.0。
+
+允许在署名、标注修改、仅作非商业使用且以相同许可分享改编作品的前提下，复制、传播和改编原创正文。
+署名请注明书名《认卦：从零读懂周易六十四卦》、zhouyi-book contributors、原仓库地址（发布时填写）和修改情况。
+
+法律文本以 Creative Commons 发布的 CC BY-NC-SA 4.0 国际许可为准。
+
+本说明不将古籍原文据为原创，也不改变古籍底本、第三方字体及其他第三方素材的原有权利和许可。
+古籍来源与许可状态见 references/sources/README.md；字体许可随构建工具下载保存在 .tools/fonts/。
+代码采用 MIT，见 LICENSE。

@@ -1,0 +1,22 @@
+id: 41
+name: 损
+symbol: ䷨
+lines:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+lower: 兑
+upper: 艮
+cuo: 31
+zong: 42
+hu: 24
+status: draft
+keywords:
+  - 下兑
+  - 上艮
+section: 下经
+references:
+  - hexagram-structure

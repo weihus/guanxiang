@@ -1,0 +1,22 @@
+id: 48
+name: 井
+symbol: ䷯
+lines:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+lower: 巽
+upper: 坎
+cuo: 21
+zong: 47
+hu: 38
+status: draft
+keywords:
+  - 下巽
+  - 上坎
+section: 下经
+references:
+  - hexagram-structure

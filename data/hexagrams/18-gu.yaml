@@ -1,0 +1,22 @@
+id: 18
+name: 蛊
+symbol: ䷑
+lines:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+lower: 巽
+upper: 艮
+cuo: 17
+zong: 17
+hu: 54
+status: draft
+keywords:
+  - 下巽
+  - 上艮
+section: 上经
+references:
+  - hexagram-structure

@@ -1,0 +1,22 @@
+id: 46
+name: 升
+symbol: ䷭
+lines:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+lower: 巽
+upper: 坤
+cuo: 25
+zong: 45
+hu: 54
+status: draft
+keywords:
+  - 下巽
+  - 上坤
+section: 下经
+references:
+  - hexagram-structure

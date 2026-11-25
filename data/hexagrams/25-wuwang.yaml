@@ -1,0 +1,22 @@
+id: 25
+name: 无妄
+symbol: ䷘
+lines:
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+lower: 震
+upper: 乾
+cuo: 46
+zong: 26
+hu: 53
+status: draft
+keywords:
+  - 下震
+  - 上乾
+section: 上经
+references:
+  - hexagram-structure

@@ -1,0 +1,22 @@
+id: 6
+name: 讼
+symbol: ䷅
+lines:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+lower: 坎
+upper: 乾
+cuo: 36
+zong: 5
+hu: 37
+status: draft
+keywords:
+  - 下坎
+  - 上乾
+section: 上经
+references:
+  - hexagram-structure

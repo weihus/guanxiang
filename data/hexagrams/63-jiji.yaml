@@ -1,0 +1,22 @@
+id: 63
+name: 既济
+symbol: ䷾
+lines:
+  - 1
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+lower: 离
+upper: 坎
+cuo: 64
+zong: 64
+hu: 64
+status: draft
+keywords:
+  - 下离
+  - 上坎
+section: 下经
+references:
+  - hexagram-structure

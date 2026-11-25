@@ -1,0 +1,22 @@
+id: 54
+name: 归妹
+symbol: ䷵
+lines:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+lower: 兑
+upper: 震
+cuo: 53
+zong: 53
+hu: 63
+status: draft
+keywords:
+  - 下兑
+  - 上震
+section: 下经
+references:
+  - hexagram-structure

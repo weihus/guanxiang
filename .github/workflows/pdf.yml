@@ -1,0 +1,59 @@
+name: Build and release PDF
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pdf:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - uses: actions/cache@v4
+        with:
+          path: .tools
+          key: pdf-linux-x64-pandoc-3.6.4-typst-0.13.1-fonts-v1
+      - run: npm ci
+      - run: make pdf
+        env:
+          PDF_GITHUB_API: gh
+          GH_TOKEN: ${{ github.token }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: zhouyi-book-pdf
+          path: pdf/dist/zhouyi-book.pdf
+      - name: Stage release artifact
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-pdf
+          path: pdf/dist/zhouyi-book.pdf
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/')
+    needs: pdf
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: release-pdf
+      - name: Attach PDF to tag release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          if ! gh release view "$TAG" >/dev/null 2>&1; then
+            gh release create "$TAG" --verify-tag --title "$TAG" --notes "泰卦样章 PDF；draft，未经行家审校。"
+          fi
+          gh release upload "$TAG" zhouyi-book.pdf --clobber

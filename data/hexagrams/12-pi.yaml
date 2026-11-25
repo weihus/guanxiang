@@ -1,0 +1,22 @@
+id: 12
+name: 否
+symbol: ䷋
+lines:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+lower: 坤
+upper: 乾
+cuo: 11
+zong: 11
+hu: 53
+status: draft
+keywords:
+  - 下坤
+  - 上乾
+section: 上经
+references:
+  - hexagram-structure

@@ -1,0 +1,22 @@
+id: 45
+name: 萃
+symbol: ䷬
+lines:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+lower: 坤
+upper: 兑
+cuo: 26
+zong: 46
+hu: 53
+status: draft
+keywords:
+  - 下坤
+  - 上兑
+section: 下经
+references:
+  - hexagram-structure

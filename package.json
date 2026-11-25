@@ -1,0 +1,32 @@
+{
+  "name": "zhouyi-book",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "seed:data": "node scripts/seed-hexagrams.mjs",
+    "generate": "node scripts/gen-reference-data.mjs && node scripts/gen-hexagram-svg.mjs",
+    "generate:svg": "node scripts/gen-hexagram-svg.mjs",
+    "test": "node --test scripts/validate.test.mjs",
+    "sources:setup": "node scripts/setup-source-excerpts.mjs",
+    "validate": "npm run sources:setup && node scripts/validate.mjs && node scripts/validate-trigram-sources.mjs && node scripts/validate-foundation.mjs && node scripts/validate-punctuation.mjs",
+    "dev": "npm run generate && vitepress dev web --host 127.0.0.1",
+    "build": "npm run validate && npm run generate && vitepress build web",
+    "preview": "vitepress preview web --host 127.0.0.1",
+    "pdf:setup": "node scripts/setup-pdf.mjs",
+    "pdf": "node scripts/build-pdf.mjs"
+  },
+  "dependencies": {
+    "vue": "3.5.46"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1",
+    "markdown-it-footnote": "4.0.0",
+    "pdf-lib": "1.17.1",
+    "vitepress": "1.6.4",
+    "yaml": "2.8.1"
+  }
+}

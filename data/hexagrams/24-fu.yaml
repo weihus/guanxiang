@@ -1,0 +1,22 @@
+id: 24
+name: 复
+symbol: ䷗
+lines:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+lower: 震
+upper: 坤
+cuo: 44
+zong: 23
+hu: 2
+status: draft
+keywords:
+  - 下震
+  - 上坤
+section: 上经
+references:
+  - hexagram-structure

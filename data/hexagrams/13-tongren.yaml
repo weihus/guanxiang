@@ -1,0 +1,22 @@
+id: 13
+name: 同人
+symbol: ䷌
+lines:
+  - 1
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+lower: 离
+upper: 乾
+cuo: 7
+zong: 14
+hu: 44
+status: draft
+keywords:
+  - 下离
+  - 上乾
+section: 上经
+references:
+  - hexagram-structure

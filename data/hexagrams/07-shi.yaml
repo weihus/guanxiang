@@ -1,0 +1,22 @@
+id: 7
+name: 师
+symbol: ䷆
+lines:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+lower: 坎
+upper: 坤
+cuo: 13
+zong: 8
+hu: 24
+status: draft
+keywords:
+  - 下坎
+  - 上坤
+section: 上经
+references:
+  - hexagram-structure

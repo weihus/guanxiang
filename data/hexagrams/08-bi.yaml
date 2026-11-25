@@ -1,0 +1,22 @@
+id: 8
+name: 比
+symbol: ䷇
+lines:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+lower: 坤
+upper: 坎
+cuo: 14
+zong: 7
+hu: 23
+status: draft
+keywords:
+  - 下坤
+  - 上坎
+section: 上经
+references:
+  - hexagram-structure

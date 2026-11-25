@@ -1,0 +1,22 @@
+id: 26
+name: 大畜
+symbol: ䷙
+lines:
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+lower: 乾
+upper: 艮
+cuo: 45
+zong: 25
+hu: 54
+status: draft
+keywords:
+  - 下乾
+  - 上艮
+section: 上经
+references:
+  - hexagram-structure

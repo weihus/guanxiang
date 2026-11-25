@@ -1,0 +1,22 @@
+id: 52
+name: 艮
+symbol: ䷳
+lines:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+lower: 艮
+upper: 艮
+cuo: 58
+zong: 51
+hu: 40
+status: draft
+keywords:
+  - 下艮
+  - 上艮
+section: 下经
+references:
+  - hexagram-structure

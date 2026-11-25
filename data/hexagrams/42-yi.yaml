@@ -1,0 +1,22 @@
+id: 42
+name: 益
+symbol: ䷩
+lines:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+lower: 震
+upper: 巽
+cuo: 32
+zong: 41
+hu: 23
+status: draft
+keywords:
+  - 下震
+  - 上巽
+section: 下经
+references:
+  - hexagram-structure

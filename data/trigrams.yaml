@@ -1,0 +1,247 @@
+# 三爻均自下而上；新增字段出处见 references/shuogua-citations.yaml。
+乾:
+  symbol: ☰
+  lines:
+    - 1
+    - 1
+    - 1
+  name:
+    value: 乾
+    references:
+      - shuogua-qian-name
+  nature:
+    value:
+      - 天
+    references:
+      - shuogua-qian-nature
+  virtue:
+    value: 健
+    references:
+      - shuogua-qian-virtue
+  family_role:
+    value: 父
+    references:
+      - shuogua-qian-family
+  personality:
+    value: 刚健地行动。
+    references:
+      - shuogua-qian-virtue
+    kind: 白话助记
+  status: draft
+兑:
+  symbol: ☱
+  lines:
+    - 1
+    - 1
+    - 0
+  name:
+    value: 兑
+    references:
+      - shuogua-dui-name
+  nature:
+    value:
+      - 泽
+    references:
+      - shuogua-dui-nature
+  virtue:
+    value: 说
+    references:
+      - shuogua-dui-virtue
+    gloss:
+      value: 悦（喜悦）
+      pronunciation: yuè
+      references:
+        - shuogua-dui-pronunciation
+  family_role:
+    value: 少女
+    references:
+      - shuogua-dui-family
+  personality:
+    value: 呈现喜悦。
+    references:
+      - shuogua-dui-virtue
+      - shuogua-dui-pronunciation
+    kind: 白话助记
+  status: draft
+离:
+  symbol: ☲
+  lines:
+    - 1
+    - 0
+    - 1
+  name:
+    value: 离
+    references:
+      - shuogua-li-name
+  nature:
+    value:
+      - 火
+      - 日
+      - 电
+    references:
+      - shuogua-li-nature
+  virtue:
+    value: 丽
+    references:
+      - shuogua-li-virtue
+    gloss:
+      value: 附着
+      references:
+        - shuogua-li-gloss
+  family_role:
+    value: 中女
+    references:
+      - shuogua-li-family
+  personality:
+    value: 附着于物。
+    references:
+      - shuogua-li-virtue
+      - shuogua-li-gloss
+    kind: 白话助记
+  status: draft
+震:
+  symbol: ☳
+  lines:
+    - 1
+    - 0
+    - 0
+  name:
+    value: 震
+    references:
+      - shuogua-zhen-name
+  nature:
+    value:
+      - 雷
+    references:
+      - shuogua-zhen-nature
+  virtue:
+    value: 动
+    references:
+      - shuogua-zhen-virtue
+  family_role:
+    value: 长男
+    references:
+      - shuogua-zhen-family
+  personality:
+    value: 发动起来。
+    references:
+      - shuogua-zhen-virtue
+    kind: 白话助记
+  status: draft
+巽:
+  symbol: ☴
+  lines:
+    - 0
+    - 1
+    - 1
+  name:
+    value: 巽
+    references:
+      - shuogua-xun-name
+  nature:
+    value:
+      - 木
+      - 风
+    references:
+      - shuogua-xun-nature
+  virtue:
+    value: 入
+    references:
+      - shuogua-xun-virtue
+  family_role:
+    value: 长女
+    references:
+      - shuogua-xun-family
+  personality:
+    value: 进入其中。
+    references:
+      - shuogua-xun-virtue
+    kind: 白话助记
+  status: draft
+坎:
+  symbol: ☵
+  lines:
+    - 0
+    - 1
+    - 0
+  name:
+    value: 坎
+    references:
+      - shuogua-kan-name
+  nature:
+    value:
+      - 水
+    references:
+      - shuogua-kan-nature
+  virtue:
+    value: 陷
+    references:
+      - shuogua-kan-virtue
+  family_role:
+    value: 中男
+    references:
+      - shuogua-kan-family
+  personality:
+    value: 陷在其间。
+    references:
+      - shuogua-kan-virtue
+    kind: 白话助记
+  status: draft
+艮:
+  symbol: ☶
+  lines:
+    - 0
+    - 0
+    - 1
+  name:
+    value: 艮
+    references:
+      - shuogua-gen-name
+  nature:
+    value:
+      - 山
+    references:
+      - shuogua-gen-nature
+  virtue:
+    value: 止
+    references:
+      - shuogua-gen-virtue
+  family_role:
+    value: 少男
+    references:
+      - shuogua-gen-family
+  personality:
+    value: 停住行动。
+    references:
+      - shuogua-gen-virtue
+    kind: 白话助记
+  status: draft
+坤:
+  symbol: ☷
+  lines:
+    - 0
+    - 0
+    - 0
+  name:
+    value: 坤
+    references:
+      - shuogua-kun-name
+  nature:
+    value:
+      - 地
+    references:
+      - shuogua-kun-nature
+  virtue:
+    value: 顺
+    references:
+      - shuogua-kun-virtue
+  family_role:
+    value: 母
+    references:
+      - shuogua-kun-family
+  personality:
+    value: 顺着事势而行。
+    references:
+      - shuogua-kun-virtue
+    kind: 白话助记
+  status: draft

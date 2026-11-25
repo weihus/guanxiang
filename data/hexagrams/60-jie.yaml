@@ -1,0 +1,22 @@
+id: 60
+name: 节
+symbol: ䷻
+lines:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+lower: 兑
+upper: 坎
+cuo: 56
+zong: 59
+hu: 27
+status: draft
+keywords:
+  - 下兑
+  - 上坎
+section: 下经
+references:
+  - hexagram-structure

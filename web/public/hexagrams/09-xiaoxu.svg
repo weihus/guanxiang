@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 204" role="img" aria-labelledby="hexagram-title hexagram-desc">
+  <title id="hexagram-title">小畜卦</title>
+  <desc id="hexagram-desc">自下而上：阳、阳、阳、阴、阳、阳；下乾上巽。</desc>
+  <style>rect { fill: #222; } text { fill: #333; font-family: 'Source Han Sans SC', 'Noto Sans CJK SC', sans-serif; font-size: 20px; }</style>
+  <g data-line="1" data-value="1"><rect x="24" y="164" width="192" height="8"/></g>
+  <g data-line="2" data-value="1"><rect x="24" y="136" width="192" height="8"/></g>
+  <g data-line="3" data-value="1"><rect x="24" y="108" width="192" height="8"/></g>
+  <g data-line="4" data-value="0"><rect x="24" y="80" width="80" height="8"/><rect x="136" y="80" width="80" height="8"/></g>
+  <g data-line="5" data-value="1"><rect x="24" y="52" width="192" height="8"/></g>
+  <g data-line="6" data-value="1"><rect x="24" y="24" width="192" height="8"/></g>
+
+</svg>

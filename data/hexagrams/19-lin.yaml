@@ -1,0 +1,22 @@
+id: 19
+name: 临
+symbol: ䷒
+lines:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+lower: 兑
+upper: 坤
+cuo: 33
+zong: 20
+hu: 24
+status: draft
+keywords:
+  - 下兑
+  - 上坤
+section: 上经
+references:
+  - hexagram-structure

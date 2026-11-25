@@ -1,0 +1,22 @@
+id: 2
+name: 坤
+symbol: ䷁
+lines:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+lower: 坤
+upper: 坤
+cuo: 1
+zong: 2
+hu: 2
+status: draft
+keywords:
+  - 下坤
+  - 上坤
+section: 上经
+references:
+  - hexagram-structure

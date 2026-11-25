@@ -1,0 +1,22 @@
+id: 1
+name: 乾
+symbol: ䷀
+lines:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+lower: 乾
+upper: 乾
+cuo: 2
+zong: 1
+hu: 1
+status: draft
+keywords:
+  - 下乾
+  - 上乾
+section: 上经
+references:
+  - hexagram-structure

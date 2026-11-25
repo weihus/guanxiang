@@ -1,0 +1,22 @@
+id: 44
+name: 姤
+symbol: ䷫
+lines:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+lower: 巽
+upper: 乾
+cuo: 24
+zong: 43
+hu: 1
+status: draft
+keywords:
+  - 下巽
+  - 上乾
+section: 下经
+references:
+  - hexagram-structure

@@ -1,0 +1,22 @@
+id: 34
+name: 大壮
+symbol: ䷡
+lines:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+lower: 乾
+upper: 震
+cuo: 20
+zong: 33
+hu: 43
+status: draft
+keywords:
+  - 下乾
+  - 上震
+section: 下经
+references:
+  - hexagram-structure

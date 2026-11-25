@@ -1,0 +1,22 @@
+id: 32
+name: 恒
+symbol: ䷟
+lines:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 0
+lower: 巽
+upper: 震
+cuo: 42
+zong: 31
+hu: 43
+status: draft
+keywords:
+  - 下巽
+  - 上震
+section: 下经
+references:
+  - hexagram-structure

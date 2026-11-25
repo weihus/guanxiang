@@ -1,0 +1,22 @@
+id: 29
+name: 坎
+symbol: ䷜
+lines:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+lower: 坎
+upper: 坎
+cuo: 30
+zong: 29
+hu: 27
+status: draft
+keywords:
+  - 下坎
+  - 上坎
+section: 上经
+references:
+  - hexagram-structure

@@ -1,0 +1,22 @@
+id: 58
+name: 兑
+symbol: ䷹
+lines:
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+lower: 兑
+upper: 兑
+cuo: 52
+zong: 57
+hu: 37
+status: draft
+keywords:
+  - 下兑
+  - 上兑
+section: 下经
+references:
+  - hexagram-structure

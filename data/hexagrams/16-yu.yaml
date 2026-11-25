@@ -1,0 +1,22 @@
+id: 16
+name: 豫
+symbol: ䷏
+lines:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+lower: 坤
+upper: 震
+cuo: 9
+zong: 15
+hu: 39
+status: draft
+keywords:
+  - 下坤
+  - 上震
+section: 上经
+references:
+  - hexagram-structure

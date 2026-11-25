@@ -1,0 +1,34 @@
+[
+  {
+    "repository": "kanripo/KR1a0001",
+    "commit": "8284adbf9e3435d713180e24f05bf75f8b7d1d96",
+    "path": "KR1a0001_067.txt",
+    "blob": "13dbcdaebc17a6c7d81df0e7d44efdf7b0111ff1",
+    "file": "shuogua-tls.txt",
+    "retrieved": "2026-11-23",
+    "scope": "说卦全文；注疏源卷在序卦开始前截断",
+    "license_confirmed": false,
+    "independence_confirmed": false,
+    "local_excerpt": {
+      "offset": 0,
+      "length": 5172,
+      "sha256": "da6132079587120c3592cfd468a9698f77d5278ac2d7b8c6374300af0f21cfef"
+    }
+  },
+  {
+    "repository": "kanripo/KR1a0007",
+    "commit": "0fa05af11e9229b6cc6febe312d541fc6d4ec3bf",
+    "path": "KR1a0007_036.txt",
+    "blob": "578ed6f3d2a0216207b48abd35321e4b94027a9d",
+    "file": "shuogua-zhushu.txt",
+    "retrieved": "2026-11-23",
+    "scope": "说卦全文；注疏源卷在序卦开始前截断",
+    "license_confirmed": false,
+    "independence_confirmed": false,
+    "local_excerpt": {
+      "offset": 0,
+      "length": 25751,
+      "sha256": "617ecd2debbf59c2e589b262392041bc1134c4bbafcaad70ceb4b5f749efaf0b"
+    }
+  }
+]

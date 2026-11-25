@@ -1,0 +1,22 @@
+id: 50
+name: 鼎
+symbol: ䷱
+lines:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+lower: 巽
+upper: 离
+cuo: 3
+zong: 49
+hu: 43
+status: draft
+keywords:
+  - 下巽
+  - 上离
+section: 下经
+references:
+  - hexagram-structure

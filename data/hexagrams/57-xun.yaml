@@ -1,0 +1,22 @@
+id: 57
+name: 巽
+symbol: ䷸
+lines:
+  - 0
+  - 1
+  - 1
+  - 0
+  - 1
+  - 1
+lower: 巽
+upper: 巽
+cuo: 51
+zong: 58
+hu: 38
+status: draft
+keywords:
+  - 下巽
+  - 上巽
+section: 下经
+references:
+  - hexagram-structure

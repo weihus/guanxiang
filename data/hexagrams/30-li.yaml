@@ -1,0 +1,22 @@
+id: 30
+name: 离
+symbol: ䷝
+lines:
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 1
+lower: 离
+upper: 离
+cuo: 29
+zong: 30
+hu: 28
+status: draft
+keywords:
+  - 下离
+  - 上离
+section: 上经
+references:
+  - hexagram-structure

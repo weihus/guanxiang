@@ -1,0 +1,89 @@
+status: draft
+chapter: content/foundations/01-lines.md
+policy: 展示引文转为简体并加今标点；底本原字另存，传文、疏及结构数据分层登记。
+footnotes:
+  c01-02: foundation-six-lines
+  c01-03: foundation-eight-base
+  c01-04: foundation-six-positions
+  c01-05: foundation-inner-outer
+  c01-06: foundation-tai-judgment
+citations:
+  foundation-six-lines:
+    marker: B1
+    kind: 传文
+    work: 周易·说卦传
+    quote: 六画而成卦
+    source_quote: 六畫而成卦
+    witnesses:
+      - path: references/sources/shuogua-zhushu.txt
+        lines: [77, 78]
+        locator: 周易注疏卷十三，说卦，文渊阁本4b
+      - path: references/sources/shuogua-tls.txt
+        lines: [20, 28]
+        locator: 周易正文说卦，KR1a0001_tls_067-2a
+  foundation-six-positions:
+    marker: B2
+    kind: 疏
+    work: 孔颖达·周易正义·说卦
+    quote: 六画所处，有其六位。
+    source_quote: 六畫所處有其六位
+    witnesses:
+      - path: references/sources/shuogua-zhushu.txt
+        lines: [87, 89]
+        locator: 周易注疏卷十三，说卦正义，文渊阁本5a–5b
+  foundation-eight-base:
+    marker: B3
+    kind: 疏
+    work: 孔颖达·周易正义·说卦
+    quote: 八卦为六十四卦之本。
+    source_quote: 八卦爲六十四卦之本
+    witnesses:
+      - path: references/sources/shuogua-zhushu.txt
+        lines: [11, 13]
+        locator: 周易注疏卷十三，说卦篇首正义，文渊阁本1a
+  foundation-tai-structure:
+    marker: B4
+    print_footnote: false
+    kind: 结构数据
+    work: 项目八卦与六十四卦结构数据
+    paths:
+      - data/trigrams.yaml
+      - data/hexagrams/11-tai.yaml
+      - data/hexagrams/01-qian.yaml
+      - data/hexagrams/04-meng.yaml
+      - references/sources/hexagram-headers.json
+    locator: 结构表中乾、坤、泰及练习图蒙；来源目次id 1、4、11，lines按自下而上读取。
+    note: 六爻名依据来源标签；正文没有从位序推导义理或吉凶。
+  foundation-tai-judgment:
+    marker: B5
+    kind: 经文
+    work: 周易·泰
+    quote: 泰，小往大来，吉，亨。
+    source_quote: 泰小往大來吉亨
+    witnesses:
+      - path: references/sources/zhouyi-zhushu-tai.txt
+        lines: [1, 2]
+        locator: 周易注疏卷三，泰，文渊阁本23a
+      - path: references/sources/zhouyi-benyi-tai.txt
+        lines: [1, 1]
+        locator: 原本周易本义卷一泰卦段，摘录第1行，起页未核
+        source_quote: 泰小徃大來吉亨
+    note: 展示沿注疏本的往；本义转录作徃，原字保留。仅作卦辞层次示例，不作词义或吉凶解释。
+  foundation-inner-outer:
+    marker: B6
+    kind: 注
+    work: 朱熹·周易本义·泰
+    quote: 言坤往居外，乾来居内。
+    source_quote: 言坤徃居外乾來居内
+    witnesses:
+      - path: references/sources/zhouyi-benyi-tai.txt
+        lines: [2, 2]
+        locator: 原本周易本义卷一泰卦段，摘录第2行，起页未核
+    note: 原录作徃，展示用往；此处据注释与卦图说明别称，不属于说卦传文。
+adopted_glosses_pending: []
+deferred_issues:
+  - 九与六命名的来历有多种说法，本章只讲命名规则，未选择起源解释。
+  - 小往大来及吉亨的具体义理解读留待后续据原文与注释核对，本章仅辨认卦辞所在层次。
+source_confirmation_pending:
+  - 底本转录许可与来源独立性仍待负责人确认；同平台的文字对照不等于独立版本审校通过。
+  - B2、B3所引疏文仍待补充独立第二底本；本章保持draft。

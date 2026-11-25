@@ -1,0 +1,22 @@
+id: 33
+name: 遁
+symbol: ䷠
+lines:
+  - 0
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+lower: 艮
+upper: 乾
+cuo: 19
+zong: 34
+hu: 44
+status: draft
+keywords:
+  - 下艮
+  - 上乾
+section: 下经
+references:
+  - hexagram-structure

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 204" role="img" aria-labelledby="hexagram-title hexagram-desc">
+  <title id="hexagram-title">泰卦</title>
+  <desc id="hexagram-desc">自下而上：阳、阳、阳、阴、阴、阴；下乾上坤。</desc>
+  <style>rect { fill: #222; } text { fill: #333; font-family: 'Source Han Sans SC', 'Noto Sans CJK SC', sans-serif; font-size: 20px; }</style>
+  <g data-line="1" data-value="1"><rect x="84" y="164" width="192" height="8"/></g>
+  <g data-line="2" data-value="1"><rect x="84" y="136" width="192" height="8"/></g>
+  <g data-line="3" data-value="1"><rect x="84" y="108" width="192" height="8"/></g>
+  <g data-line="4" data-value="0"><rect x="84" y="80" width="80" height="8"/><rect x="196" y="80" width="80" height="8"/></g>
+  <g data-line="5" data-value="0"><rect x="84" y="52" width="80" height="8"/><rect x="196" y="52" width="80" height="8"/></g>
+  <g data-line="6" data-value="0"><rect x="84" y="24" width="80" height="8"/><rect x="196" y="24" width="80" height="8"/></g>
+  <text x="60" y="168" dy=".35em" text-anchor="end">初</text><text x="298" y="168" dy=".35em">初九</text>
+  <text x="60" y="140" dy=".35em" text-anchor="end">二</text><text x="298" y="140" dy=".35em">九二</text>
+  <text x="60" y="112" dy=".35em" text-anchor="end">三</text><text x="298" y="112" dy=".35em">九三</text>
+  <text x="60" y="84" dy=".35em" text-anchor="end">四</text><text x="298" y="84" dy=".35em">六四</text>
+  <text x="60" y="56" dy=".35em" text-anchor="end">五</text><text x="298" y="56" dy=".35em">六五</text>
+  <text x="60" y="28" dy=".35em" text-anchor="end">上</text><text x="298" y="28" dy=".35em">上六</text>
+</svg>

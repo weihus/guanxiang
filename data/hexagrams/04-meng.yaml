@@ -1,0 +1,22 @@
+id: 4
+name: 蒙
+symbol: ䷃
+lines:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+lower: 坎
+upper: 艮
+cuo: 49
+zong: 3
+hu: 24
+status: draft
+keywords:
+  - 下坎
+  - 上艮
+section: 上经
+references:
+  - hexagram-structure

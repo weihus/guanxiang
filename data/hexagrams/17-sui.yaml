@@ -1,0 +1,22 @@
+id: 17
+name: 随
+symbol: ䷐
+lines:
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+lower: 震
+upper: 兑
+cuo: 18
+zong: 18
+hu: 53
+status: draft
+keywords:
+  - 下震
+  - 上兑
+section: 上经
+references:
+  - hexagram-structure

@@ -1,0 +1,22 @@
+id: 62
+name: 小过
+symbol: ䷽
+lines:
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+lower: 艮
+upper: 震
+cuo: 61
+zong: 62
+hu: 28
+status: draft
+keywords:
+  - 下艮
+  - 上震
+section: 下经
+references:
+  - hexagram-structure

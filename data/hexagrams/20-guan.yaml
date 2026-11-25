@@ -1,0 +1,22 @@
+id: 20
+name: 观
+symbol: ䷓
+lines:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+lower: 坤
+upper: 巽
+cuo: 34
+zong: 19
+hu: 23
+status: draft
+keywords:
+  - 下坤
+  - 上巽
+section: 上经
+references:
+  - hexagram-structure

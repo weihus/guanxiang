@@ -1,0 +1,22 @@
+id: 61
+name: 中孚
+symbol: ䷼
+lines:
+  - 1
+  - 1
+  - 0
+  - 0
+  - 1
+  - 1
+lower: 兑
+upper: 巽
+cuo: 62
+zong: 61
+hu: 27
+status: draft
+keywords:
+  - 下兑
+  - 上巽
+section: 下经
+references:
+  - hexagram-structure

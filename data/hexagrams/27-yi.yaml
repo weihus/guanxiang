@@ -1,0 +1,22 @@
+id: 27
+name: 颐
+symbol: ䷚
+lines:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+lower: 震
+upper: 艮
+cuo: 28
+zong: 27
+hu: 2
+status: draft
+keywords:
+  - 下震
+  - 上艮
+section: 上经
+references:
+  - hexagram-structure

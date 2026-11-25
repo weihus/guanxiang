@@ -1,0 +1,22 @@
+id: 55
+name: 丰
+symbol: ䷶
+lines:
+  - 1
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+lower: 离
+upper: 震
+cuo: 59
+zong: 56
+hu: 28
+status: draft
+keywords:
+  - 下离
+  - 上震
+section: 下经
+references:
+  - hexagram-structure

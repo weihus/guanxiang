@@ -1,0 +1,22 @@
+id: 21
+name: 噬嗑
+symbol: ䷔
+lines:
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+lower: 震
+upper: 离
+cuo: 48
+zong: 22
+hu: 39
+status: draft
+keywords:
+  - 下震
+  - 上离
+section: 上经
+references:
+  - hexagram-structure

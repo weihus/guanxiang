@@ -1,0 +1,20 @@
+node_modules/
+.tools/
+.artifacts/
+web/.vitepress/cache/
+web/.vitepress/dist/
+pdf/dist/
+.DS_Store
+*.log
+.env
+.env.*
+
+web/public/zhouyi-reading.pdf
+
+# Candidate transcriptions, restored from pinned upstream sources for local checks
+/references/sources/zhouyi-zhushu-tai.txt
+/references/sources/zhouyi-benyi-tai.txt
+/references/sources/shuogua-tls.txt
+/references/sources/shuogua-zhushu.txt
+
+/references/sources/.*.tmp

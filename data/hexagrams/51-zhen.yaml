@@ -1,0 +1,22 @@
+id: 51
+name: 震
+symbol: ䷲
+lines:
+  - 1
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+lower: 震
+upper: 震
+cuo: 57
+zong: 52
+hu: 39
+status: draft
+keywords:
+  - 下震
+  - 上震
+section: 下经
+references:
+  - hexagram-structure

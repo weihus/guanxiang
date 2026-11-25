@@ -1,0 +1,22 @@
+id: 28
+name: 大过
+symbol: ䷛
+lines:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0
+lower: 巽
+upper: 兑
+cuo: 27
+zong: 28
+hu: 1
+status: draft
+keywords:
+  - 下巽
+  - 上兑
+section: 上经
+references:
+  - hexagram-structure

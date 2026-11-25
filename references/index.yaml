@@ -1,0 +1,45 @@
+tai-prd:
+  path: docs/PRD.md
+  note: 第 126 行起泰卦样章；仅为本次排版输入，不是核准古籍底本。
+tai-style:
+  path: docs/STYLE.md
+  note: 第 5 节指定的【设想】故事。
+tai-source-status:
+  path: references/sources/README.md
+  note: 双底本、出处及许可尚待确认；所有待核项保持存疑。
+tai-zhushu:
+  path: references/sources/zhouyi-zhushu-tai.txt
+  note: 文渊阁周易注疏卷三泰卦候选摘录；转录许可及独立性待确认。
+tai-benyi:
+  path: references/sources/zhouyi-benyi-tai.txt
+  note: 文渊阁原本周易本义卷一泰卦候选摘录；不含彖象，转录许可及独立性待确认。
+hexagram-structure:
+  path: references/sources/hexagram-headers.json
+  note: Kanripo周易正文固定提交中的64卦卦名、上下卦与爻位标签；只用结构事实，转录许可及独立来源确认沿用待核状态。
+shuogua-citations:
+  path: references/shuogua-citations.yaml
+  note: 八卦逐字段引用登记，区分传文、孔疏与陆德明音义；含底本行号页码。
+shuogua-text:
+  path: references/sources/shuogua-tls.txt
+  note: 周易正文说卦固定提交；转录许可及来源独立性待确认。
+shuogua-zhushu:
+  path: references/sources/shuogua-zhushu.txt
+  note: 文渊阁周易注疏卷十三说卦段，含传文、孔疏与音义；许可与独立性待确认。
+foundation-six-lines:
+  path: references/foundation-01-citations.yaml
+  note: 第一章B1，说卦传文六画而成卦。
+foundation-six-positions:
+  path: references/foundation-01-citations.yaml
+  note: 第一章B2，孔疏六画所处有其六位。
+foundation-eight-base:
+  path: references/foundation-01-citations.yaml
+  note: 第一章B3，孔疏八卦为六十四卦之本。
+foundation-tai-structure:
+  path: references/foundation-01-citations.yaml
+  note: 第一章B4，泰的六爻、上下卦与爻名，以及三画乾坤和六画乾。
+foundation-tai-judgment:
+  path: references/foundation-01-citations.yaml
+  note: 第一章B5，泰卦卦辞层次示例，不作义理解读。
+foundation-inner-outer:
+  path: references/foundation-01-citations.yaml
+  note: 第一章B6，本义泰卦注对内外与上下的别称说明。

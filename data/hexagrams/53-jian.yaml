@@ -1,0 +1,22 @@
+id: 53
+name: 渐
+symbol: ䷴
+lines:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+lower: 艮
+upper: 巽
+cuo: 54
+zong: 54
+hu: 64
+status: draft
+keywords:
+  - 下艮
+  - 上巽
+section: 下经
+references:
+  - hexagram-structure

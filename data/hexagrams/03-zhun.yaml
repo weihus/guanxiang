@@ -1,0 +1,22 @@
+id: 3
+name: 屯
+symbol: ䷂
+lines:
+  - 1
+  - 0
+  - 0
+  - 0
+  - 1
+  - 0
+lower: 震
+upper: 坎
+cuo: 50
+zong: 4
+hu: 23
+status: draft
+keywords:
+  - 下震
+  - 上坎
+section: 上经
+references:
+  - hexagram-structure
