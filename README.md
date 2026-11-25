@@ -117,4 +117,4 @@ node scripts/verify-web.mjs
 
 PDF 使用 Adobe 思源宋体和思源黑体，以及 Noto Sans Symbols 2，均依 SIL Open Font License 1.1 使用。固定版本分别来自 `adobe-fonts/source-han-serif` 提交 `7889f11bf31170b5d092a083b357c8c8130f89e0`、`adobe-fonts/source-han-sans` 提交 `a4f7cf94edfb9d7ffbdfc4841de276358bd7e0f2` 和 `notofonts/noto-fonts` 提交 `ffebf8c1ee449e544955a7e813c54f9b73848eac`，原许可随字体下载到 `.tools/fonts/`。Pandoc、Typst 为独立构建工具，不受本仓库 MIT 许可覆盖。
 
-欢迎在本项目 GitHub 仓库的 Issues 纠错，请附章节、原句、建议与可核查出处。尚未配置远程仓库地址，发布时补充直接入口。
+欢迎提交纠错，请附章节、原句、建议与可核查出处。 [GitHub Issues](https://github.com/weihus/guanxiang/issues)

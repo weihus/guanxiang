@@ -33,4 +33,4 @@ features:
 
 ## 参与纠错
 
-欢迎在本项目 GitHub 仓库的 **Issues** 提交纠错，请附章节、原句、建议和可核查出处。仓库尚未配置远程地址，正式发布时补充直接入口。
+欢迎提交纠错，请附章节、原句、建议和可核查出处。 [GitHub Issues](https://github.com/weihus/guanxiang/issues)
