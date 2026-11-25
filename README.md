@@ -1,5 +1,7 @@
 # 认卦：从零读懂周易六十四卦
 
+[在线阅读](https://weihus.github.io/guanxiang/) · [下载十五章试读 PDF](https://weihus.github.io/guanxiang/zhouyi-reading.pdf)
+
 文化与思想入门读物。当前提供九章入门试读和六章进阶试读、地基第一章试点、泰卦样章，以及 M1 的 64 卦结构化数据、矢量卦象、速查表与关系数据。网站与 A5 PDF 共用这些章稿，均保留初稿状态。
 
 **本书经 AI 辅助撰写，未经行家审校。** 当前泰卦为 `draft`，尚未完成双底本逐字核对及三厂商模型的两轮独立审核。结构校验通过不代表经文或解读已审校。来源与许可待确认事项见 [底本记录](references/sources/README.md)。
@@ -109,7 +111,7 @@ node scripts/verify-web.mjs
 
 `.github/workflows/pages.yml` 在 main 推送、PR 和手动触发时校验并构建；PR 只构建，main 或手动触发时部署 Pages。仓库所有者需要在 Settings → Pages 中选择 GitHub Actions。仓库站点路径由仓库名计算，本地可用 `SITE_BASE=/zhouyi-book/ npm run build` 检查子路径部署。
 
-`.github/workflows/pdf.yml` 在 `v*` tag 推送时构建 PDF 并附到对应 Release，手动触发只生成可下载的 workflow artifact。仅使用 GitHub 自动提供的工作流令牌，无需添加外部密钥。当前交付仅提供工作流，尚未推送或验证线上部署。
+`.github/workflows/pdf.yml` 在 `v*` tag 推送时构建 PDF 并附到对应 Release，手动触发只生成可下载的 workflow artifact。仅使用 GitHub 自动提供的工作流令牌，无需添加外部密钥。线上试读和 PDF 下载由 GitHub Pages 提供。
 
 ## 许可与纠错
 
