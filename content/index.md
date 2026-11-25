@@ -33,4 +33,6 @@ features:
 
 ## 参与纠错
 
-欢迎提交纠错，请附章节、原句、建议和可核查出处。 [GitHub Issues](https://github.com/weihus/guanxiang/issues)
+欢迎提交纠错，请附章节、原句、建议和可核查出处。
+
+[在 GitHub 提交纠错](https://github.com/weihus/guanxiang/issues)
